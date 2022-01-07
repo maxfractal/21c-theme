@@ -1,1 +1,5 @@
-<h1>21cGEEK footer</h1>
+<h4>21cGEEK footer</h4>
+<?php wp_footer(); ?>
+</body>
+</html>
+

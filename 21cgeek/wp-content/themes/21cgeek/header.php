@@ -5,7 +5,4 @@
     </head>
     <body>
     <h1>21cgeek</h1> 
-    </body>
-</html>
-
-
+   
