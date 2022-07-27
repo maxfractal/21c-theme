@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <?php wp_head(); ?>
+        Hiya!!<?php wp_head(); ?>
     </head>
     <body>
-    <!-- <h1>21cgeek</h1> -->
+    <h1>21cgeek forever!!</h1>
     <header class="site-header">
       <div class="container">
         <h1 class="school-logo-text float-left">
