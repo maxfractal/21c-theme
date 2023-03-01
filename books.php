@@ -3,7 +3,11 @@
 	//$dn = dirname('.');
 	//print($dn);
 	?>
-
+<style>
+    .card {
+        border: 1px black solid;
+    }
+</style>
 <script>
 console.log('Try this first');
 </script>
