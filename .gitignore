@@ -28,6 +28,7 @@ wp-signup.php
 wp-trackback.php
 xmlrpc.php
 
+.gitignore
 .DS_Store
 .project
 21cgeek/.DS_Store
@@ -46,3 +47,5 @@ offgitignore
 21cgeek/wp-content/themes/xrisnet
 
 21cgeek/php/
+
+21cgeek/wp-content/themes/universtity-theme/functions.txt
