@@ -5,7 +5,7 @@ wpadmin.txt
 
 config.php
 dir.txt
-index.php
+#index.php
 license.txt
 orig.config.php
 readme.html
