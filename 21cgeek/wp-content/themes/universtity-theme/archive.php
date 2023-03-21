@@ -1,6 +1,3 @@
-hello world
-<?php echo dirname(__FILE__) ?>
-
 <?php
   get_header();
  ?>
