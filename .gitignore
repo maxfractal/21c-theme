@@ -35,7 +35,9 @@ xmlrpc.php
 21cgeek/.buildpath
 21cgeek/.project
 21cgeek/wp-content/.DS_Store
-21cgeek/wp-content/plugins/
+21cgeek/wp-content/plugins/akismet
+21cgeek/wp-content/plugins/hello.php
+21cgeek/wp-content/plugins/index.php
 21cgeek/wp-content/themes/.DS_Store
 offgitignore
 
@@ -48,4 +50,4 @@ offgitignore
 
 21cgeek/php/
 
-21cgeek/wp-content/themes/universtity-theme/functions.txt
+#21cgeek/wp-content/themes/universtity-theme/functions.txt
