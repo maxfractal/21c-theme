@@ -7,7 +7,7 @@
     <div class="page-banner__content container container--narrow">
       <h1 class="page-banner__title">Welcome to the 21cGeek Product/UX Codex</h1>
       <div class="page-banner__intro">
-        <p>This is index.php:</p>
+        <p>This is <strong>UX</strong>index.php:</p>
       </div>
     </div>  
   </div>
