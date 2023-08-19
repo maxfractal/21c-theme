@@ -18,11 +18,8 @@ get_header();
             </div>
             <div class="container container--narrow page-section">
             <div class="metabox metabox--position-up metabox--with-home-link">
-      <p><a class="metabox__blog-home-link" href="<?php echo site_url('/blog') ?>"><i class="fa fa-home" aria-hidden="true"></i> Blog home </a> 
-      <span class="metabox__main">Posted by <?php the_author_posts_link(); ?> on <?php the_date('F j, Y'); ?> in 
-      <?php 
-        echo get_the_category_list(', ');
-      ?></span></p>
+      <p><a class="metabox__blog-home-link" href="<?php echo site_url('/index.php/blog') ?>"><i class="fa fa-home" aria-hidden="true"></i> Events Home </a> 
+      <span class="metabox__main"><?php echo the_title(); ?></span></p>
     </div>
             <div class="generic-content"><?php echo the_content(); ?></div>
             </div>
