@@ -8,6 +8,8 @@ Custom Strucure:
 /index.php/%year%/%monthnum%/%day%/%postname%/
 /%year%/%monthnum%/%postname%/
 
+/index.php/%year%/%monthnum%/%day%/%postname%/
+
 
 WP Functions
 

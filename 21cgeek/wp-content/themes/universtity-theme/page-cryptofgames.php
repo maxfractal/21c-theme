@@ -1,6 +1,6 @@
 <?php
 
-  get_header('ux');
+  get_header('crypt');
 
 
 
@@ -10,9 +10,9 @@
     <div class="page-banner">
     <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/gradient-decay.jpg') ?>);"></div>
     <div class="page-banner__content container container--narrow">
-      <h1 class="page-banner__title">UX Lorem Ipsum XX</h1>
+      <h1 class="page-banner__title">Crypt of Games</h1>
       <div class="page-banner__intro">
-        <p>Our latest articles:</p>
+        <p>Our latest games:</p>
       </div>
     </div>  
   </div>
